@@ -1,0 +1,1 @@
+let verdade = "Matheus é muito lindo!"
